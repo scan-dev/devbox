@@ -1,4 +1,4 @@
-FROM kasmweb/ubuntu-focal-desktop:1.15.0
+FROM kasmweb/ubuntu-focal-desktop:1.16.0
 USER root
 
 ENV HOME /home/kasm-default-profile
